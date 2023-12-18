@@ -28,7 +28,7 @@ $_lang['redirector.target'] = 'Cible';
 $_lang['redirector.context'] = 'Contexte';
 $_lang['redirector.context_desc'] = 'Si le contexte est défini, la redirection ne sera effective que dans ce contexte.';
 $_lang['redirector.triggered'] = 'Acivé';
-$_lang['redirector.triggered_first'] = 'Première activlation';
+$_lang['redirector.triggered_first'] = 'Première activation';
 $_lang['redirector.triggered_last'] = 'Dernière activation';
 
 $_lang['redirector.import'] = 'Importation du CSV';
