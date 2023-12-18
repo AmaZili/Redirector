@@ -8,7 +8,7 @@
 $_lang['redirector'] = 'Redirector';
 $_lang['redirector.active'] = 'Actif';
 $_lang['redirector.desc'] = 'Gérez les redirections de votre site internet. Red lines means that the pattern URL is still exists OR target URL doesn\'t exists for a resource and will not be redirected.';
-$_lang['redirector.nothing_found'] = 'No redirects found yet!';
+$_lang['redirector.nothing_found'] = 'Pas de redirections trouvées!';
 $_lang['redirector.redirect_err_ae_pattern'] = 'Une redirection utilisant ce "modèle" existe déjà.';
 $_lang['redirector.redirect_err_ae_patctx'] = 'Une redirection utilisant ce "modèle" dans le contexte "[[+context]]" existe déjà.';
 $_lang['redirector.redirect_err_ae_uri'] = 'URI déjà existante pour la ressource [[+id]] dans le contexte "[[+context]]"... La redirection ne fonctionnera pas!';
@@ -27,11 +27,11 @@ $_lang['redirector.search'] = 'Chercher…';
 $_lang['redirector.target'] = 'Cible';
 $_lang['redirector.context'] = 'Contexte';
 $_lang['redirector.context_desc'] = 'Si le contexte est défini, la redirection ne sera effective que dans ce contexte.';
-$_lang['redirector.triggered'] = 'Triggered';
-$_lang['redirector.triggered_first'] = 'First time triggered';
-$_lang['redirector.triggered_last'] = 'Last time triggered';
+$_lang['redirector.triggered'] = 'Acivé';
+$_lang['redirector.triggered_first'] = 'Première activlation';
+$_lang['redirector.triggered_last'] = 'Dernière activation';
 
-$_lang['redirector.import'] = 'Import CSV';
+$_lang['redirector.import'] = 'Importation du CSV';
 $_lang['redirector.import_desc'] = 'Importez ici de nouvelles règles au format CSV. Vous pouvez uploader un fichier CSV ou coller le contenu brut du CSV dans le textarea ci-dessous';
 $_lang['redirector.import.csv_desc'] = 'Note : le format du CSV doit être "modèle;cible;contexte", où "contexte" est facultatif (ou vide).<br/>Aussi, utilisez des URLs relatives (n\'indiquez pas [[+site_url]]).';
 $_lang['redirector.import.csv_file'] = 'Sélection de fichier CSV';
